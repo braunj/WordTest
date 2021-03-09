@@ -28,3 +28,6 @@ Overkill:
 1. Include a data store like NgRx
 
 Thanks for your time. I hope this helps give me a fair evaluation.
+
+J.
+
